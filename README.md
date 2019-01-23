@@ -1148,7 +1148,7 @@ Use `TODO` to note missing features or functionality that should be added at a l
 <sup>[[link](#todo)]</sup>
 
     ```Clojure
-    TODO @alexandergunnarson do this
+    ;; TODO @alexandergunnarson do this
     ```
 
 * <a name="fixme"></a>
